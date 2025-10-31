@@ -1,5 +1,7 @@
 # Asimov_Explore_API_OpenAI
 
+## Conteúdo do curso
+
 - **Introdução à API da OpenAI**
   - 1.1 - Apresentação - Explorando API da OpenAI
   - 1.2 - Explorando a documentação da OpenAI
